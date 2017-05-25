@@ -6,5 +6,5 @@ app.listen(3001, () => {
 });
 
 app.get('/', (_, res) => {
-    res.send('Hello! I am a deployed app!');
+    res.send('Hello! I am a deployed website!');
 });
